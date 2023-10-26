@@ -1,6 +1,9 @@
 {
   "commands": [
     "clear F2",
-    "clear A8"
+    "clear A8",
+    "flag C5",
+    "flag B5",
+    "flag G5"
   ]
 }
